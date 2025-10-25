@@ -1,6 +1,7 @@
-# 🚀 Innovatech WebWorks
+# 🚀 Sustainify Tech
 
-Welcome to **Innovatech WebWorks** — a future-ready web solutions agency founded by passionate college developers and designers. We help startups, businesses, and creators build **secure**, **scalable**, and **stunning** digital experiences.
+Welcome to **Sustainify Tech** — a future-ready digital solutions agency founded by passionate college developers and designers.  
+We help startups, businesses, and creators build **secure**, **scalable**, and **stunning** digital experiences.
 
 ---
 
@@ -22,46 +23,48 @@ We offer full-cycle digital services tailored for modern needs:
 
 ---
 
-## 💡 Why Choose Innovatech?
+## 💡 Why Choose Sustainify Tech?
 
-- 👨‍💻 **Driven & Skilled Team** – A team of innovative college developers blending creativity with technical expertise.
-- 🔄 **Agile Process** – Quick turnaround times with regular updates and feedback loops.
-- 🌍 **Remote & Global** – Available to work with clients across time zones, wherever you are.
-- 📈 **Optimized for Growth** – We focus on performance, SEO, accessibility, and security from day one.
-- 🤝 **Client-Centric Approach** – Full transparency, collaborative decision-making, and clear communication at every step.
+- 👨‍💻 **Driven & Skilled Team** – A team of innovative college developers blending creativity with technical expertise.  
+- 🔄 **Agile Process** – Quick turnaround times with regular updates and feedback loops.  
+- 🌍 **Remote & Global** – Available to work with clients across time zones, wherever you are.  
+- 📈 **Optimized for Growth** – We focus on performance, SEO, accessibility, and security from day one.  
+- 🤝 **Client-Centric Approach** – Full transparency, collaborative decision-making, and clear communication at every step.  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**: React.js, Next.js, Tailwind CSS, Figma  
-**Backend**: Node.js, Express.js, MongoDB, Firebase  
-**DevOps**: GitHub Actions, Docker, Vercel, Netlify  
-**Security**: JWT, OAuth 2.0, HTTPS, OWASP Guidelines  
+**Frontend:** React.js, Next.js, Tailwind CSS, Figma  
+**Backend:** Node.js, Express.js, MongoDB, Firebase  
+**DevOps:** GitHub Actions, Docker, Vercel, Netlify  
+**Security:** JWT, OAuth 2.0, HTTPS, OWASP Guidelines  
 
 ---
 
 ## 🌐 Explore Our Work
 
-- 🔗 **Website / Portfolio**: [innovatechwebworks.vercel.app](https://innovatechwebworks.vercel.app)
+🔗 **Website / Portfolio:** [sustainifytech.vercel.app](https://sustainifytech.vercel.app)
+
+---
 
 ### 📱 Connect With Us
 
-- 📧 Email: [innovatechwebworks@gmail.com](mailto:innovatechwebworks@gmail.com)  
-- 📸 Instagram: [@innovatech_webworks](https://www.instagram.com/innovatech_webworks/)  
-- 🐦 Twitter / X: [@innovatech86226](https://x.com/innovatech86226)  
-- 📘 Facebook: [Innovatech Facebook Page](https://www.facebook.com/profile.php?id=61577719006629)  
-- 💻 GitHub: [InnovatechWebWorks](https://github.com/InnovatechWebworks)
+- 📧 **Email:** [sustainifytech@gmail.com](mailto:sustainifytech@gmail.com)  
+- 📸 **Instagram:** [@sustainify_tech](https://www.instagram.com/sustainify_tech/)  
+- 🐦 **Twitter / X:** [@sustainifytech](https://x.com/sustainifytech)  
+- 📘 **Facebook:** [Sustainify Tech Facebook Page](https://www.facebook.com/profile.php?id=61577719006629)  
+- 💻 **GitHub:** [SustainifyTech](https://github.com/SustainifyTech)
 
 ---
 
 ## 🤝 Let's Build Together
 
-Launching a startup? Rebranding your business? Need secure DevOps or a full redesign?
+Launching a startup? Rebranding your business? Need secure DevOps or a full redesign?  
 
-**Innovatech WebWorks** is your creative tech partner — ready to bring your ideas to life.
+**Sustainify Tech** is your creative tech partner — ready to bring your ideas to life.
 
 ---
 
-© 2025 Innovatech WebWorks | All Rights Reserved  
-🌐 [innovatechwebworks.vercel.app](https://innovatechwebworks.vercel.app)
+© 2025 Sustainify Tech | All Rights Reserved  
+🌐 [sustainifytech.vercel.app](https://sustainifytech.vercel.app)
